@@ -1,0 +1,9 @@
+compile
+=======
+
+javac GameFrame.java GamePanel.java SnakeGame.java
+
+run
+====
+
+java SnakeGame
